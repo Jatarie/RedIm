@@ -1,0 +1,16 @@
+.cell {
+    font-size: 20px;
+    background-color: rgb(50, 56, 62);
+    color: white;
+    text-align: center;
+}
+
+.cell:hover {
+    background-color: rgb(120, 120, 120);
+}
+
+.tables{
+    height: 100vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}

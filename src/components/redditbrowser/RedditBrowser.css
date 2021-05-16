@@ -1,0 +1,20 @@
+.post {
+    min-width: 90vw;
+    max-height: 90vh;
+}
+
+.timeframe {
+    color: red;
+    padding: 10px;
+}
+
+.redditbrowser {
+    /*background-color: pink;*/
+    background-color: rgb(50, 56, 62);
+}
+
+.buttons {
+    background-color: black;
+    position: absolute;
+    z-index: 1;
+}

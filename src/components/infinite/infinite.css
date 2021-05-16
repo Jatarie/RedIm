@@ -1,0 +1,15 @@
+.infinitetable{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    color:red;
+    background-color: black;
+}
+
+.infinitegrid{
+    background-color: rgb(50, 56, 62);
+}
+
+.infiniterow{
+    background-color: blue;
+    color:blue
+}
